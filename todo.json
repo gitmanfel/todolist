@@ -1,0 +1,14 @@
+[
+    {
+        "Nom": "Tache 1\r\n",
+        "Terminer": false
+    },
+    {
+        "Nom": "Tache 2",
+        "Terminer": true
+    },
+    {
+        "Nom": "Tache 3",
+        "Terminer": false
+    }
+]
